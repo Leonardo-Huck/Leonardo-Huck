@@ -1,6 +1,6 @@
 ## Olá! Eu sou Leonardo Huck 🖐️
 
-![Leonardo Huck GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Huck&show_icons=true&theme=onedark)
+![Leonardo Huck GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Huck&show_icons=true&rank_icon=github&theme=onedark)
 
 ## Tecnologias que eu uso no meu dia
 
